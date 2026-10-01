@@ -75,6 +75,8 @@
     │   └── nltk_data/       自然语言处理工具库
     │
     └── README.md
+    │
+    │__ LICENSE
     
 
 # 环境要求
